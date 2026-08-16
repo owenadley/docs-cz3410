@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-8auug7.pulaucuansite.cfd/sitemap.xml
